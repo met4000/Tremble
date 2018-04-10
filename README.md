@@ -1,2 +1,2 @@
-# tremble
-A physics sim; the successor to Muzler
+# Tremble
+A physics simulator; the successor to Muzler
